@@ -1,0 +1,2 @@
+D:/dispositivos_moveis_5semestre/gerador_de_senhas/android/app/.cxx/RelWithDebInfo/5tlb2v57/x86_64/CMakeFiles/edit_cache.dir
+D:/dispositivos_moveis_5semestre/gerador_de_senhas/android/app/.cxx/RelWithDebInfo/5tlb2v57/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+D:\dispositivos_moveis_5semestre\gerador_de_senhas\build\app\intermediates\cxx\RelWithDebInfo\5tlb2v57\obj\arm64-v8a
